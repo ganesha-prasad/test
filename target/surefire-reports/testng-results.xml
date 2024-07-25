@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test 2 was passed]]>
+    </line>
+    <line>
+      <![CDATA[Test 1 was passed]]>
+    </line>
+    <line>
+      <![CDATA[Test 3 was passed]]>
+    </line>
+    <line>
+      <![CDATA[Test 4 was passed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-07-25T18:46:55 IST" name="Simple test" finished-at="2024-07-25T18:47:07 IST" duration-ms="12095">
+    <groups>
+    </groups>
+    <test started-at="2024-07-25T18:46:55 IST" name="Parallel block 1" finished-at="2024-07-25T18:47:07 IST" duration-ms="12095">
+      <class name="TestProgramme.TestDemo">
+        <test-method is-config="true" signature="testMethod2()[pri:0, instance:TestProgramme.TestDemo@44ebcd03]" started-at="2024-07-25T18:46:55 IST" name="testMethod2" finished-at="2024-07-25T18:46:58 IST" duration-ms="3026" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 2 was passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testMethod2 -->
+        <test-method signature="testMethod1()[pri:0, instance:TestProgramme.TestDemo@44ebcd03]" started-at="2024-07-25T18:46:58 IST" name="testMethod1" finished-at="2024-07-25T18:47:01 IST" duration-ms="3006" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 1 was passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method signature="testMethod3()[pri:0, instance:TestProgramme.TestDemo@44ebcd03]" started-at="2024-07-25T18:47:01 IST" name="testMethod3" finished-at="2024-07-25T18:47:04 IST" duration-ms="3012" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 3 was passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testMethod3 -->
+        <test-method signature="testMethod4()[pri:0, instance:TestProgramme.TestDemo@44ebcd03]" started-at="2024-07-25T18:47:04 IST" name="testMethod4" finished-at="2024-07-25T18:47:07 IST" duration-ms="3006" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 4 was passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testMethod4 -->
+      </class> <!-- TestProgramme.TestDemo -->
+    </test> <!-- Parallel block 1 -->
+  </suite> <!-- Simple test -->
+</testng-results>

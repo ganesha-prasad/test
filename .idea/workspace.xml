@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32efa470-95d1-4972-8032-7f0a17094898" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AutoSuggestionPOM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AutoSuggestionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestProgramme/DataDrivenExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestProgramme/DataDrivenProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestProgramme/DataDrivenYml.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestProgramme/IteratorPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestProgramme/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestProgramme/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/data/data.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/data/test.property" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/data/test.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/data/test.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestPOMClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestPOMClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
